@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://i.redd.it/7qr6w7urc5g21.jpg)
+}
+h1, h2 {
+    text-align: center;
+    font-family: 'Gill Sans';
+}
+.secondpage {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 610px;
+    background-color: lightslategray;
+    padding: 20px
+}
+h1 {
+    font-size: 50px;
+}
+legend {
+    text-align: center;
+}
+p {
+    font-style: italic;
+}
